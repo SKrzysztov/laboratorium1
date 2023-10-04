@@ -17,5 +17,6 @@ public class Main {
 
     void randomFunction(String name) {
         System.out.println(name + '1');
+        System.out.println(name + "xD");
     }
 }
