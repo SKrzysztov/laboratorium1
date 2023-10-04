@@ -3,7 +3,7 @@ public class User {
         System.out.println(name);
     }
 
-    public void deleteUser(String name){
+    public void deleteUser(String name) {
         System.out.println(name);
     }
 }
