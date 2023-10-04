@@ -14,7 +14,8 @@ public class Main {
             System.out.println("i = " + i);
         }
     }
-    void randomFunction(){
+
+    void randomFunction(String name) {
         System.out.println(name);
     }
 }
